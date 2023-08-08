@@ -1,0 +1,29 @@
+header{
+    background-color: lightblue;
+}
+
+h2{
+    background-color: black;
+    color: white;
+}
+h3{
+    background-color: hotpink;
+    color: black;
+
+}
+
+.info{
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 5px;
+    width: 600px;
+    height: 300px;
+    margin: auto;
+
+    
+}
+
+img{
+    width: 300px;
+    height: auto;
+}
